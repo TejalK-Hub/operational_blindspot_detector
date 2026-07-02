@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# current : on local system 
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+.db-journal
+
+Thumbs.db
+.DS_Store
+
+.vscode/
+
+*.log 
+

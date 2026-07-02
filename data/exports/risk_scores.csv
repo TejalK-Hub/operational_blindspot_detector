@@ -1,0 +1,13 @@
+domain_id,run_date,composite_score,cluster_label,risk_tier,top_driver
+DOM001,2026-06-18,3.5,1,LOW,avg_update_lag
+DOM002,2026-06-18,23.3,2,LOW,total_missing_fields
+DOM003,2026-06-18,1.9,1,LOW,avg_null_rate
+DOM004,2026-06-18,26.6,2,MEDIUM,total_missing_fields
+DOM005,2026-06-18,44.4,0,MEDIUM,avg_update_lag
+DOM006,2026-06-18,4.3,1,LOW,avg_update_lag
+DOM007,2026-06-18,40.6,0,MEDIUM,total_missing_fields
+DOM008,2026-06-18,10.1,1,LOW,total_missing_fields
+DOM009,2026-06-18,30.6,2,MEDIUM,total_missing_fields
+DOM010,2026-06-18,3.1,1,LOW,avg_update_lag
+DOM011,2026-06-18,63.7,3,HIGH,avg_update_lag
+DOM012,2026-06-18,1.7,1,LOW,avg_null_rate

@@ -1,0 +1,13 @@
+domain_id,domain_name,owner_team,data_source
+DOM001,Supply Chain,Operations,SAP ERP
+DOM002,Accounts Payable,Finance,SAP ERP
+DOM003,Customer Orders,Sales,Salesforce CRM
+DOM004,Warehouse Inventory,Operations,WMS PostgreSQL
+DOM005,HR Onboarding,Human Resources,Workday
+DOM006,IT Helpdesk,IT Operations,ServiceNow
+DOM007,Fleet Management,Logistics,MySQL Ops DB
+DOM008,Procurement,Finance,SAP ERP
+DOM009,Product Returns,Customer Success,Salesforce CRM
+DOM010,Payroll Processing,Human Resources,Workday
+DOM011,Vendor Contracts,Legal,SharePoint Export
+DOM012,Retail POS,Sales,MySQL Ops DB
