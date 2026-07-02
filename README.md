@@ -144,7 +144,7 @@ The project follows a modular analytics engineering architecture where each stag
 
 # Pipeline Execution
 
-![Pipeline Execution](docs/02_pipeline_execution_workflow.svg)
+![Pipeline Execution](docs/pipeline_execution.PNG)
 
 The pipeline is executed through `run_pipeline.py`, which orchestrates every stage in sequence.
 
