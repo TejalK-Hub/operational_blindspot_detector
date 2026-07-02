@@ -449,7 +449,7 @@ The pipeline performs :
 
 The modular architecture allows every stage to execute independently while remaining fully integrated within a single automated pipeline.
 
----````
+
 
 # Future Enhancements
 
@@ -508,7 +508,7 @@ The pipeline executes the following stages sequentially:
 Open the Power BI report located at:
 
 ```text
-powerbi/blindspot_report.pbix
+powerbi/operational_blindspot_detector_result.pbix
 ```
 
 Refresh the data source if required.
